@@ -6,8 +6,8 @@ function Mylang() {
         document.getElementById("avis").textContent="ĐỂ Ý";
         document.getElementById("contact").textContent="LIÊN HỆ";
 
-
-
+        document.getElementById("button-lang").textContent="VN";
+        document.getElementById("promo").textContent="Kế hoạch tốt";
 
         document.getElementById("homelink").innerHTML=' <div class="container "><div class="row align-items-center"><div class="col-lg-5 col-md-12 order-md-2" > <div class="about-image"> <img src="img/profil2.jpg" alt="Profil" class="img-fluid">  </div> </div> <div class="col-lg-7 col-md-12 my-5 text-center text-sm-start order-md-1"><span class="text-white fs-5 mb-5">Xin chào, tôi là Anthony</span> <h1 class="mb-3 mt-4 text-white fs-2"> Kỹ thuật viên CNTT từ xa<br><span>Nhà phát triển web</span> <br> <span>Trình chỉnh sửa hình ảnh</span>   <br> <span>Biên tập video</span> </h1>  <p class="d-none d-sm-block text-white mt-5">  Hãy trao cho tôi 50% niềm tin, tôi sẽ mang đến cho bạn 100% sự hài lòng.  <br> Tôi hỗ trợ các doanh nghiệp, người làm nghề tự do và cá nhân trong việc tạo trang web, chỉnh sửa video, chỉnh sửa ảnh và khắc phục sự cố máy tính từ xa. </p> <a href="img/CV-Viet.pdf" class="btn bg-color my-2 px-5 text-white fw-bold text-uppercase swing-element">Tải CV</a>  </div>  </div> </div> ';
         document.getElementById("comment-1").innerHTML="Xin chân thành cảm ơn Anthony vì những đóng góp tuyệt vời cho video của chúng tôi! Anh là một người lắng nghe tuyệt vời, chú ý đến từng chi tiết nhỏ nhất và luôn sẵn sàng điều chỉnh để mọi thứ hoàn hảo. Mong muốn làm tốt của anh được thể hiện rõ trong từng bước, và kết quả cuối cùng thật tuyệt vời! Tôi chắc chắn sẽ giao phó những dự án khác cho anh mà không chút do dự. Cảm ơn anh một lần nữa vì sự chuyên nghiệp và tận tâm!";
@@ -90,7 +90,7 @@ function Mylang() {
         document.getElementById("form-message").textContent="Message";
         document.getElementById("form-send").textContent="Send";
    
-
+        
         /*FOOTER*/
 
         document.getElementById("strong-newsletter").textContent="Subscribe to our newsletter";
@@ -99,6 +99,10 @@ function Mylang() {
         document.getElementById("h5-footer-rs").textContent="Social networks";
         document.getElementById("h5-footer-sw").textContent="Website";
         document.getElementById("h5-footer-p").textContent="Sponsorship";
+
+        document.getElementById("button-lang").textContent="EN";
+        document.getElementById("promo").textContent="Good plan";
+     
     }else{
         location.reload();
     }
