@@ -67,9 +67,12 @@
 
 .section-home{
     min-height: 100vh;
-    background: url(img/coolbackgrounds-particles-stellar.png);
+    background: url(img/coolbackgrounds-particles-stellar2.png);
+    background-size: cover;
 }
-
+#servicelink{
+    background-size: cover;
+}
 
 .about-image img{
     border-radius: 555px 555px 555px 555px;
@@ -81,7 +84,8 @@
 
 
 .section-contact{
-    background: url(img/coolbackgrounds-particles-stellar.png);
+    background: url(img/coolbackgrounds-particles-stellar2.png);
+    background-size: cover;
 }
 
 
@@ -92,16 +96,16 @@
 
    @keyframes swing {
       20% {
-        transform: rotate(10deg); /* Swings to one side */
+        transform: rotate(1deg); /* Swings to one side */
       }
       40% {
-        transform: rotate(-10deg); /* Swings to the other side */
+        transform: rotate(-1deg); /* Swings to the other side */
       }
       60% {
-        transform: rotate(5deg); /* Swings back slightly */
+        transform: rotate(0.5deg); /* Swings back slightly */
       }
       80% {
-        transform: rotate(-5deg); /* Swings the other way slightly */
+        transform: rotate(-0.5deg); /* Swings the other way slightly */
       }
       100% {
         transform: rotate(0deg); /* Returns to original position */

@@ -134,7 +134,7 @@
         </div>
     </section>
     <!-- Service 7 - Bootstrap Brain Component -->
-    <section class="bsb-service-7 py-5 py-xl-8" style="background-image: url(img/coolbackgrounds-particles-stellar.png);" id="servicelink">
+    <section class="bsb-service-7 py-5 py-xl-8" style="background-image: url(img/coolbackgrounds-particles-stellar2.png);" id="servicelink">
     <div class="container-fluid">
         <div class="row justify-content-md-center">
         <div class="col-12 col-md-10 col-lg-8 col-xl-7" id="servicesJS">
@@ -347,7 +347,7 @@
               <div class="col-md-6">
                 <button  type="submit" class="btn bg-color text-white w-100 fw-bold swing-element"  id="form-send">Envoyer</button>
               </div>
-               <div class="text-success">
+               <div class="text-white">
                       <?php if (!empty($messagesuccess)) {
                         echo $messagesuccess ;} ?>
                 </div>
