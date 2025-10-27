@@ -481,7 +481,12 @@
                     <!--Grid column-->
                     <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
                     <h5 class="text-uppercase" id="h5-footer-sw">Site Web</h5>
-
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a class="text-color" href="https://anthony-bouillon.com/parrainage/">Bon plan pour économiser</a>
+                            </li>
+                           
+                        </ul>
              
                     </div>
                     <!--Grid column-->
