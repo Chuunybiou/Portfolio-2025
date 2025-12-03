@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/logo-entreprise.png" type="image/x-icon">
+    <meta name="description" content="J’accompagne les entreprises, indépendants et particuliers dans la création de site web, le montage vidéo, les retouches photo et le dépannage informatique à distance.">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
