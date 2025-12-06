@@ -212,7 +212,7 @@
             <p class="text-color">De l’idée à la pratique, découvrez quelques projets qui illustrent mon savoir-faire et ma passion du web — des créations développées avec soin, alliant technique et esthétique.</p>
             <p>
             <a href="#contactlink" class="btn bg-color my-2 px-5 text-white swing-element">DEVIS</a>
-            <a href="#" class="btn bg-color-b my-2  px-5 text-white swing-element" style="width: 150px;">CV</a>
+            <a href="img/CV.pdf" class="btn bg-color-b my-2  px-5 text-white swing-element" style="width: 150px;">CV</a>
             </p>
         </div>
         </div>
@@ -484,7 +484,7 @@
                     <h5 class="text-uppercase" id="h5-footer-sw">Site Web</h5>
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a class="text-color" href="https://anthony-bouillon.com/parrainage/">Bon plan pour économiser</a>
+                                <a class="text-color" href="https://bonusparrainage.com">Bon plan pour économiser</a>
                             </li>
                            
                         </ul>
@@ -498,10 +498,13 @@
 
                     <ul class="list-unstyled mb-0">
                         <li>
-                        <a class="text-color" href="https://www.1parrainage.com/listeannonces_113218_Cremefrai.php?cat=2&texte=Cremefrai&catOK=2">1parrainage</a>
+                        <a class="text-color" href="https://www.1parrainage.com/listeannonces_139985_RolandBern.php">1parrainage</a>
                         </li>
                         <li>
                         <a class="text-color" href="https://www.parrainplus.fr/pages/user_page.php?id=319">Parrainplus</a>
+                        </li>
+                        <li>
+                        <a class="text-color" href="https://www.super-parrain.com/users/investisseur">Super parrain</a>
                         </li>
                 
                     </ul>
